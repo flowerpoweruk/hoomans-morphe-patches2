@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.52.0",
+  "version": "1.0.0",
   "patches": [
     {
       "name": "7TV and BTTV emotes",
@@ -865,7 +865,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "3.73.179",
+              "version": "3.73.208",
               "isExperimental": false,
               "minSdk": null,
               "description": null
